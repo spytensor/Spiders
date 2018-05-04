@@ -14,9 +14,11 @@ scrapy爬取BOSS直聘网、洛杉矶时报、网易云音乐等
     `注：后续将对所爬数据进行清洗和分析`<br>
 ## 项目二：[leifengWang](https://github.com/spytensor/Spiders/tree/master/leifeng)
 **所抓取的分类(截止2018年5月4日):**<br>
-* 业界  人工智能  智能驾驶  AI+ Aintech&区块链
+* 业界  人工智能  智能驾驶  AI+ Aintech&区块链  
 * 未来医疗  网络安全  AR/VR 机器人  开发者  智能硬件<br>
+
 **所需要的信息如下：**<br>
-* 新闻链接  新闻标题  新闻作者  标签<br>  
+* 新闻链接  新闻标题  新闻作者  标签<br>
+
 **对所有标题使用jieba分词后进行词云制作，效果如下:**<br>
 ![](https://github.com/spytensor/Spiders/blob/master/leifeng/leifeng/analysis/22.png)
