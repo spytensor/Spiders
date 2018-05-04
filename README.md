@@ -21,4 +21,4 @@ scrapy爬取BOSS直聘网、洛杉矶时报、网易云音乐等
 * 新闻链接  新闻标题  新闻作者  标签<br>
 
 **对所有标题使用jieba分词后进行词云制作，效果如下:**<br>
-![](https://github.com/spytensor/Spiders/blob/master/leifeng/leifeng/analysis/22.png)
+![](https://github.com/spytensor/Spiders/blob/master/leifeng/leifeng/analysis/leifeng_word3.png)
